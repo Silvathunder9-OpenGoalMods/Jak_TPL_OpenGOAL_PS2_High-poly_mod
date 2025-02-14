@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://gitlab.com/SilvaThunder9/jak_tpl_opengoal_ps2_high-poly_mod_real.git
+	fetch = +refs/*:refs/*
+	mirror = true
